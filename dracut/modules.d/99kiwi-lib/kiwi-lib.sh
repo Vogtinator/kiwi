@@ -177,7 +177,6 @@ function initialize {
     # file does not exist
     # """
     local term
-    local kiwi_oem_installdevice
     local profile=/.profile
     local profile_extra=/.profile.extra
 
